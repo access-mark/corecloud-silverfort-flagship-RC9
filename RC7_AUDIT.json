@@ -1,0 +1,38 @@
+{
+  "html_files": 43,
+  "missing_targets": [],
+  "bad_anchors": [],
+  "forms": [
+    [
+      "assess-sovereignty.html",
+      "",
+      ""
+    ],
+    [
+      "assess-ai-readiness.html",
+      "",
+      ""
+    ],
+    [
+      "guides.html",
+      "https://formsubmit.co/sales@corecloudza.com",
+      "POST"
+    ],
+    [
+      "request-nda.html",
+      "https://formsubmit.co/sales@corecloudza.com",
+      "POST"
+    ],
+    [
+      "assess-workload-venue.html",
+      "",
+      ""
+    ],
+    [
+      "contact.html",
+      "https://formsubmit.co/sales@corecloudza.com",
+      "POST"
+    ]
+  ],
+  "image_optimisations": []
+}
